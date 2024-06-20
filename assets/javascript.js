@@ -3,7 +3,7 @@ function detail(id){
   location.href = `detail.html?id=${id}`;
 }
 function url(){
-  location.href = ('https://www.hay88.one/?inviteCode=1885333');
+  location.href = ('https://www.hay88.one/?inviteCode=0688697');
 }
 $(document).ready(function(){
   const FunVisible = () => {
